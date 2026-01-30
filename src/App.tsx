@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef } from "react";
-import passthroughProcessorUrl from "./worklets/passthrough-processor.ts?url";
-import amSimulateProcessorUrl from "./worklets/am-simulate-processor.ts?url";
+import passthroughProcessorUrl from "./worklets/passthrough-processor.ts?worker&url";
+import amSimulateProcessorUrl from "./worklets/am-simulate-processor.ts?worker&url";
 import type { AmSimulateConfig } from "./am-simulate-config";
 import {
   DEFAULT_AM_SIMULATE_CONFIG,

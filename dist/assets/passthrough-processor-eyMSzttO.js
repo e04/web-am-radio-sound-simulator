@@ -1,0 +1,1 @@
+(function(){"use strict";class c extends AudioWorkletProcessor{process(u,h,l){const e=u[0],o=h[0];if(e&&o)for(let s=0;s<o.length;s++){const n=e[s]||e[0],r=o[s];if(n&&r)for(let t=0;t<r.length;t++)r[t]=n[t]}return!0}}registerProcessor("passthrough-processor",c)})();
