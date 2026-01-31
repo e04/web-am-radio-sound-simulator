@@ -1,5 +1,9 @@
 # web-am-radio-sound-simulator
 
+<img width="1435" height="1127" src="https://github.com/user-attachments/assets/38b26846-9c51-4df3-997a-ab5c396364ad" />
+
+https://github.com/user-attachments/assets/029ad8cb-d2af-49b2-ad64-4668b0bf1402
+
 A web-based audio effect simulator that recreates the classic sound of AM radio.
 
 **[Try it here](https://e04.github.io/web-am-radio-sound-simulator/dist/index.html)**
@@ -7,7 +11,7 @@ A web-based audio effect simulator that recreates the classic sound of AM radio.
 ## Features
 
 - Real-time AM radio effect processing
-- Audio visualization with oscilloscope
+- Signal visualization with spectrum analyzer
 - Adjustable parameters for customizing the sound
 
 ## Usage Notes
@@ -23,4 +27,3 @@ npm install
 npm run dev
 ```
 
-<img width="1435" height="1127" src="https://github.com/user-attachments/assets/38b26846-9c51-4df3-997a-ab5c396364ad" />
