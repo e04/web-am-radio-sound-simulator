@@ -130,7 +130,7 @@ class AmChannelProcessor {
 
     return { 
       output: Math.max(-1, Math.min(1, filtered)),
-      modulated: noisy 
+      modulated: modulated 
     };
   }
 
